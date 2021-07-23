@@ -145,7 +145,7 @@ header{
     .news li{
         width: 25%;
     }
-    .nav li a{
+    .nav  a{
         padding-left: 3px;
         font-size: 14px;
     }
