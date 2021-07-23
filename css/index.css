@@ -146,7 +146,7 @@ header{
         width: 25%;
     }
     .nav li a{
-        
+        padding-left: 3px;
         font-size: 14px;
     }
     
